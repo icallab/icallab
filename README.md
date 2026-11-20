@@ -68,37 +68,47 @@ Currently, I am focusing on strengthening my analytical and technical skills whi
 
 
 
+
 ---
 
 ## 📂 Featured Projects
 
-### 1. Olist E-Commerce Business Intelligence
-**Tools:** SQL, PostgreSQL, Power BI
+### 📊 1. Olist E-Commerce Business Intelligence
+**Tools:** PostgreSQL, SQL, Python, Power BI
 
-Developed a multi-page business intelligence dashboard to analyze e-commerce performance across sales, products, customers, delivery, reviews, payments, and freight.
+Analyzed e-commerce business performance across sales, products, customers, delivery, reviews, payments, and freight through a multi-page interactive dashboard.
 
-### 2. Superstore Sales & Profitability Analysis
-**Tools:** Excel, Python, Power BI
+🔗 [View Repository](https://github.com/icallab/olist-ecommerce-business-intelligence)
+
+### 📈 2. Superstore Sales & Profitability Analysis
+**Tools:** Python, PostgreSQL, SQL, Power BI
 
 Analyzed sales performance, profitability, discount strategies, product categories, customer segments, and regional business performance.
 
-### 3. Telco Customer Churn Analysis
-**Tools:** SQL, Power BI
+🔗 [View Repository](https://github.com/icallab/superstore-bi-analyst)
 
-Investigated customer churn patterns, customer characteristics, and factors associated with customer retention.
+### 👥 3. Telco Customer Churn Analysis
+**Tools:** Python, SQL, Power BI
 
-### 4. Netflix Content Analytics
-**Tools:** Python, Excel, Power BI
+Investigated customer churn patterns, customer characteristics, retention risks, and business recommendations to support customer retention strategies.
 
-Explored Netflix's content catalog to identify content distribution patterns, addition trends, and catalog characteristics.
+🔗 [View Repository](https://github.com/icallab/telco-customer-churn-analyst)
 
-### 5. IBM HR Analytics – Employee Attrition
+### 🎬 4. Netflix Content Analytics
+**Tools:** Python, PostgreSQL, Power BI
+
+Explored Netflix movies and TV shows to identify content trends, genre distribution, and business insights.
+
+🔗 [View Repository](https://github.com/icallab/netflix-analytics)
+
+### 🏢 5. IBM HR Analytics – Employee Attrition
 **Tools:** Microsoft Excel
 
 Analyzed employee attrition patterns and workforce characteristics to identify factors associated with employee turnover.
 
-### 6. Mobile Legends Sentiment Analysis
+### 🤖 6. Mobile Legends Sentiment Analysis
 **Tools:** Python, Word2Vec, FastText, LSTM, Attention
 
 Conducted comparative sentiment analysis of Mobile Legends reviews using different word embedding techniques and deep learning architectures.
+
 
