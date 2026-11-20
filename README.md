@@ -23,6 +23,7 @@ Continuously developing technical and analytical skills through practical projec
 
 ---
 
+
 ## 🛠️ Technical Skills & Tools
 
 ### 📊 Data Analysis & Business Intelligence
@@ -37,12 +38,20 @@ Continuously developing technical and analytical skills through practical projec
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
+### 🤖 Machine Learning & Deep Learning
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+</p>
+
 ### 📚 Python Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gensim-5A9?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ### 🗄️ Database & Development Tools
@@ -52,6 +61,7 @@ Continuously developing technical and analytical skills through practical projec
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
 
 
 
