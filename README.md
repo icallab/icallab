@@ -1,18 +1,12 @@
+# Hi, I'm Nur Faizal Basri 👋
 
-<h1 align="center">Hi, I'm Nur Faizal Basri 👋</h1>
+### Data Analyst | Business Intelligence
 
-<h3 align="center">Data Analyst | SQL • Excel • Python • Power BI</h3>
+SQL • Excel • Python • Power BI
 
-<p align="center">
-  Turning data into meaningful insights and actionable business decisions.
-</p>
+Turning data into meaningful insights and actionable business decisions.
 
-<p align="center">
-  <a href="https://github.com/icallab">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub">
-  </a>
-</p>
-
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/icallab)
 
 ---
 
