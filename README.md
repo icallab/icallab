@@ -65,3 +65,40 @@ Currently, I am focusing on strengthening my analytical and technical skills whi
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+
+
+---
+
+## 📂 Featured Projects
+
+### 1. Olist E-Commerce Business Intelligence
+**Tools:** SQL, PostgreSQL, Power BI
+
+Developed a multi-page business intelligence dashboard to analyze e-commerce performance across sales, products, customers, delivery, reviews, payments, and freight.
+
+### 2. Superstore Sales & Profitability Analysis
+**Tools:** Excel, Python, Power BI
+
+Analyzed sales performance, profitability, discount strategies, product categories, customer segments, and regional business performance.
+
+### 3. Telco Customer Churn Analysis
+**Tools:** SQL, Power BI
+
+Investigated customer churn patterns, customer characteristics, and factors associated with customer retention.
+
+### 4. Netflix Content Analytics
+**Tools:** Python, Excel, Power BI
+
+Explored Netflix's content catalog to identify content distribution patterns, addition trends, and catalog characteristics.
+
+### 5. IBM HR Analytics – Employee Attrition
+**Tools:** Microsoft Excel
+
+Analyzed employee attrition patterns and workforce characteristics to identify factors associated with employee turnover.
+
+### 6. Mobile Legends Sentiment Analysis
+**Tools:** Python, Word2Vec, FastText, LSTM, Attention
+
+Conducted comparative sentiment analysis of Mobile Legends reviews using different word embedding techniques and deep learning architectures.
+
