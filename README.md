@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**icallab/icallab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi, I'm Nur Faizal Basri 👋</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">Aspiring Data Analyst | SQL • Excel • Python • Power BI</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Turning data into meaningful insights and actionable business decisions.
+</p>
+
+<p align="center">
+  <a href="https://github.com/icallab">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+</p>
