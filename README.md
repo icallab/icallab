@@ -17,6 +17,7 @@ Interested in translating complex datasets into clear, actionable insights throu
 Continuously developing technical and analytical skills through practical projects across various business domains.
 
 
+
 ## 🛠️ Technical Skills & Tools
 
 <table>
@@ -58,6 +59,9 @@ Continuously developing technical and analytical skills through practical projec
     </td>
   </tr>
 </table>
+
+
+
 
 
 
