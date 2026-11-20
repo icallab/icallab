@@ -6,10 +6,6 @@ SQL • Excel • Python • Power BI
 
 Turning data into meaningful insights and actionable business decisions.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/icallab)
-
----
-
 ## 👨‍💻 About Me
 
 Data Analyst with a strong interest in Data Analytics and Business Intelligence, passionate about exploring data, identifying patterns, and uncovering meaningful insights to support data-driven business decisions.
@@ -20,9 +16,7 @@ Interested in translating complex datasets into clear, actionable insights throu
 
 Continuously developing technical and analytical skills through practical projects across various business domains.
 
-
 ---
-
 
 ## 🛠️ Technical Skills & Tools
 
