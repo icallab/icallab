@@ -1,4 +1,4 @@
-# Hi, I'm Nur Faizal Basri 👋
+# Hi, I'm Faizal 👋
 
 ### Data Analyst | Business Intelligence
 
