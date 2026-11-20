@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm Nur Faizal Basri 👋</h1>
 
-<h3 align="center">Aspiring Data Analyst | SQL • Excel • Python • Power BI</h3>
+<h3 align="center">Data Analyst | SQL • Excel • Python • Power BI</h3>
 
 <p align="center">
   Turning data into meaningful insights and actionable business decisions.
