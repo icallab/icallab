@@ -18,8 +18,6 @@
 
 ## 👨‍💻 About Me
 
-## 👨‍💻 About Me
-
 Aspiring Data Analyst with a strong interest in Data Analytics and Business Intelligence. Passionate about exploring data, identifying patterns, and uncovering meaningful insights to support data-driven business decisions.
 
 Experienced in working on hands-on analytics projects involving data cleaning, data transformation, exploratory data analysis (EDA), SQL querying, and interactive dashboard development.
