@@ -18,20 +18,15 @@
 
 ## 👨‍💻 About Me
 
-I am an Informatics graduate with both Bachelor's and Master's degrees in Informatics from Universitas AMIKOM Yogyakarta, with a strong interest in Data Analytics and Business Intelligence.
+## 👨‍💻 About Me
 
-I am passionate about transforming raw data into meaningful insights that support data-driven business decisions. Through hands-on projects, I have developed practical experience in data cleaning, data exploration, SQL querying, data analysis, and interactive dashboard development.
+Aspiring Data Analyst with a strong interest in Data Analytics and Business Intelligence. Passionate about exploring data, identifying patterns, and uncovering meaningful insights to support data-driven business decisions.
 
-Currently, I am focusing on strengthening my analytical and technical skills while building a portfolio of data analytics projects.
+Experienced in working on hands-on analytics projects involving data cleaning, data transformation, exploratory data analysis (EDA), SQL querying, and interactive dashboard development.
 
-- 🎓 Master's Degree in Informatics (2025)
-- 🎓 Bachelor's Degree in Informatics (2023)
-- 📊 Interested in Data Analytics & Business Intelligence
-- 🔍 Exploring data to identify trends, patterns, and business insights
-- 📈 Building analytical dashboards and data-driven projects
-- 🎯 Aspiring to start a career as a Junior Data Analyst
+Interested in turning complex datasets into clear and actionable insights through analytical thinking, data visualization, and business-oriented problem solving.
 
-
+Currently focused on continuously improving analytical and technical skills while developing a portfolio of projects across different business domains.
 
 
 ---
